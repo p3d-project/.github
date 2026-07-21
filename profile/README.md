@@ -10,7 +10,7 @@ On Discord, we have general discussions with the community about the game we're 
 - If you're interested in **joining the team**, we recommend checking out the #roles channel & adding yourself as an @Applicant. You will then see a new #apply-to-the-team channel under "Team Application", where you can begin the application process
 
 ## So, where's the game?
-See [Installing the Game](https://p3dual.com/docs/guides/install-game/) for details.
+See [Installing the Game](https://docs.p3dual.com/guides/install-game/) for details.
 
 ## Legal
 > Disclaimer: This section is inspired by the [FEMC Reloaded project](https://github.com/MadMax1960/Femc-Reloaded-Project)
